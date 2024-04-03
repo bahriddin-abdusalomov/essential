@@ -1,0 +1,6 @@
+@Essential.Bot_HostAddress = http://localhost:5240
+
+GET {{Essential.Bot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
